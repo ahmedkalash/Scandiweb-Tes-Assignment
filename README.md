@@ -10,6 +10,11 @@
 - Uncomment the `set_exception_handler` function in `public/index.php` file to display errors in development mode.
 
 
+
+ For the framework documitaion clik here: https://github.com/ahmedkalash/PHP-MVC-Framwork
+
+
+
 ## Test result:
  <img src="TestImages/scandiweb_test_result.png" alt="scandiweb test result">
 
