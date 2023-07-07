@@ -14,4 +14,4 @@
 
 ## Live preview:
 
-[I hope it still up](https://scandiwebtaskassignment.000webhostapp.com/)
+[I hope it still up.](https://scandiwebtaskassignment.000webhostapp.com/) Try to ues VPN if it does not open.
